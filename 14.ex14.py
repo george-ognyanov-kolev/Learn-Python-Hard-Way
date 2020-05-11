@@ -1,10 +1,10 @@
 from sys import argv
 
 script, user_name = argv
-prompt = '>>>>>>'
+prompt = '>>>>>> '
 
 print(f'Hello {user_name}, I am the {script}')
-print('id like to ask you a question')
+print('I\'d like to ask you a question')
 print(f'do you like me {user_name}')
 likes = input(prompt)
 
