@@ -1,0 +1,1 @@
+#Boolean tables and memorizing logic chapter
